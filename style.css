@@ -165,4 +165,11 @@ main {
     height: 100%;
     justify-content: flex-start;
   }
+
+  .card[data-color="purple"] {
+    background-image: url("images/bg-pattern-quotation.svg");
+    background-position: 88% 0;
+    background-repeat: no-repeat;
+    background-size: 105px 100px;
+  }
 }
